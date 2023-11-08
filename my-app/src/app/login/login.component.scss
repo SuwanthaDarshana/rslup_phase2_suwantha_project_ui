@@ -1,0 +1,33 @@
+.login {
+    min-height: 100vh;
+  }
+  
+  .bg-image {
+    background-image: url('../../assets/images/logo.png');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .login-heading {
+    font-weight: 300;
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+  }
+  
+  
+  a:link {
+    text-decoration: none;
+    padding:30px;
+  
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
